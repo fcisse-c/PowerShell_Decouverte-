@@ -22,4 +22,13 @@
    Get-Command *copy*
    
 2. rm (remove) :
+   ```powershell
    Get-Command *remove*
+
+3. cd (change directory) :
+    ```powershell
+    Get-Command *location*
+
+
+
+   
