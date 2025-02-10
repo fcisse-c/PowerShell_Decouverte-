@@ -29,6 +29,26 @@
     ```powershell
     Get-Command *location*
 
+4. mkdir (make directory) :
+    ```powershell
+   Get-Command *item* | where { $_.CommandType -eq "Cmdlet" }
+    
+5. man (manual) :
+    ```powershell
+   Get-Help *
+
+6. history (history) :
+     ```powershell
+     Get-Command *history*
+
+7. Recherche pour alias :
+   ```powershell
+   Get-Command *alias*
+
+8.cat (concatenate) :
+```powershell
+Get-Command *content*
+
 
 
    
