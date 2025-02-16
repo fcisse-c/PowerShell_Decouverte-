@@ -15,7 +15,7 @@
 
 ---
 
-## Commandes PowerShell utilisées :
+## Les commandes PowerShell que j'ai utilisé pour faire mes recherches sont :
 
 1. `cp` (copy) :
    ```powershell
